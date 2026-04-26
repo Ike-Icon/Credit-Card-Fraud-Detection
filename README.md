@@ -10,18 +10,22 @@ Fraudulent transactions represent a small percentage of total transactions, whic
 
 **💰 Insight 2: Medium-value transactions are riskier**
 Fraud is more concentrated in medium and high transaction amounts, indicating that fraudsters tend to target higher-value transactions for maximum gain.
+
 <img src="/fraud_by_trans.png" alt="Logo" width="200"/>
 
 **🌙 Insight 3: Time influences fraud behavior**
 Fraud rates vary by time of day, with increased suspicious activity during off-peak hours such as evening periods, suggesting reduced monitoring or opportunistic behavior. 
+
 <img src="/by_time.png" alt="Logo" width="200"/>
 
 **🌍 Insight 4: Foreign transactions are higher risk**
 Foreign transactions show a higher proportion of fraud compared to domestic transactions, making them a strong indicator for risk scoring.
+
 <img src="/foreign.png" alt="Logo" width="200"/>
 
 **🚨 Insight 5: Merchant risk score is a strong predictor**
 Transactions associated with high-risk merchants exhibit significantly higher fraud rates, indicating that merchant risk scoring is a critical feature in fraud detection.
+
 <img src="/ricks.png" alt="Logo" width="200"/>
 
 ## BUSINESS IMPLICATIONS
